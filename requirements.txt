@@ -1,0 +1,14 @@
+aiohttp==3.9.1
+python-dotenv==1.0.0
+loguru==0.7.2
+redis==5.0.1
+asyncio-mqtt==0.16.1
+pydantic==2.5.2
+tweepy==4.14.0
+Mastodon.py==1.8.1
+discord.py==2.3.2
+paypalrestsdk==1.13.3
+schedule==1.2.0
+aiofiles==23.2.1
+cryptography==41.0.8
+bleach==6.1.0
